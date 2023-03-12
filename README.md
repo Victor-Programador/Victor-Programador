@@ -4,7 +4,7 @@
    <a href="https://github.com/Victor-Programador">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Programador&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    
-    <img height="180em", width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Programador&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Programador&layout=compact&langs_count=6&theme=tokyonight"/>
    
     
 
