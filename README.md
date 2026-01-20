@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do Victor Santos 😁
-## Sou Analista de sistemas Jr. Mas ainda estou desenvolvendo minhas habilidades como programador!
+## Desenvolvendo minhas habilidades de programação continuamente
 
  <div>
    <a href="https://github.com/Victor-Programador">
