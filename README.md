@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do Victor Santos 😁
-## Desenvolvendo minhas habilidades de programação continuamente
+## Desenvolvendo minhas habilidades de programação continuamente.
 
  <div>
    <a href="https://github.com/Victor-Programador">
