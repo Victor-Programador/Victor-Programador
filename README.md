@@ -2,10 +2,9 @@
 ## Desenvolvendo minhas habilidades de programação continuamente.
 
  <div>
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Victor-Programador&show_icons=true&theme=tokyonight"/>
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Programador&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Programador&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Victor-Programador&layout=compact&theme=tokyonight"/>
    
 </div>
 <div style="display: inline_block"><br>
